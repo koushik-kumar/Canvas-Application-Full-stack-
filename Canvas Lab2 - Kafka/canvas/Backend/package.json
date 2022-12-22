@@ -22,7 +22,7 @@
     "filehound": "^1.17.0",
     "gravatar": "^1.8.0",
     "json": "^9.0.6",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "jwt-decode": "^2.2.0",
     "kafka-node": "^4.1.0",
     "local-storage": "^1.4.2",
